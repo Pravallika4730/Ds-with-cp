@@ -110,3 +110,11 @@ Inorder (Sorted): 50 70 80 90 105 120
 === Code Execution Successful ===
 
 === Code Execution Successful ===
+
+Adjacentseries.java
+
+0->1 2 
+1->2 
+2->3 
+3->
+
