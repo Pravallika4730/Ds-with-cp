@@ -128,3 +128,33 @@ Try programiz.pro
 BFS Traversal:  BFS  Breadth First search0 1 2 3 DFS Traversal:  DFS  Depth First search0 1 2 3 
 === Code Execution Successful ===
 
+
+heap.java
+priority queue execution results
+Before insertion PQ
+[]
+After insertion PQ
+[1,]
+Before insertion PQ
+[1,]
+After insertion PQ
+[2,1,]
+Before insertion PQ
+[2,1,]
+After insertion PQ
+[3,1,2,]
+Before insertion PQ
+[3,1,2,]
+After insertion PQ
+[4,3,2,1,]
+Before insertion PQ
+[4,3,2,1,]
+After insertion PQ
+[5,4,2,1,3,]
+
+Delete Highest Priority
+Removed = 5
+[4,3,2,1,]
+Peek = 4
+
+=== Code Execution Successful ===
